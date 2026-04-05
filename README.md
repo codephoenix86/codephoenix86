@@ -149,37 +149,44 @@ open_to: "Backend / DevOps internships & collaborations"
 
 > A fully containerized, production-ready chat backend built with a polyglot persistence strategy, deployed on AWS EC2 with SSL, automated testing, and real-time WebSocket communication.
 
-<div align="center">
-<div style="display:inline-block;vertical-align:top;width:48%;max-width:420px;text-align:left;padding:0 10px;">
-<p><strong>🏗️ Architecture Highlights</strong></p>
-<ul>
-<li>Polyglot persistence: PostgreSQL (users/auth) + MongoDB (messages) + Redis (sessions/presence)</li>
-<li>Stateless JWT auth with Redis-backed opaque refresh tokens + token rotation</li>
-<li>Real-time layer via Socket.io — multi-device presence, typing indicators, delivery receipts</li>
-<li>Clean separation of REST (persistence) vs WebSocket (events) responsibilities</li>
-</ul>
-</div><!--
---><div style="display:inline-block;vertical-align:top;width:48%;max-width:420px;text-align:left;padding:0 10px;">
-<p><strong>⚙️ Infrastructure</strong></p>
-<ul>
-<li>Multi-stage Docker builds, 4-service Docker Compose with health checks</li>
-<li>Deployed on AWS EC2 behind Nginx reverse proxy with Let's Encrypt SSL</li>
-<li>70%+ test coverage (branch, function, line) via Jest + Supertest</li>
-<li>Integration tests with real DB instances; S3 and Socket.io globally mocked</li>
-</ul>
-</div>
-</div>
+<table width="100%">
+<tr>
+<td valign="top" width="50%">
 
-<br/>
+**🏗️ Architecture Highlights**
+- Polyglot persistence: PostgreSQL (users/auth) + MongoDB (messages) + Redis (sessions/presence)
+- Stateless JWT auth with Redis-backed opaque refresh tokens + token rotation
+- Real-time layer via Socket.io — multi-device presence, typing indicators, delivery receipts
+- Clean separation of REST (persistence) vs WebSocket (events) responsibilities
+
+</td>
+<td valign="top" width="50%">
+
+**⚙️ Infrastructure**
+- Multi-stage Docker builds, 4-service Docker Compose with health checks
+- Deployed on AWS EC2 behind Nginx reverse proxy with Let's Encrypt SSL
+- 70%+ test coverage (branch, function, line) via Jest + Supertest
+- Integration tests with real DB instances; S3 and Socket.io globally mocked
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="middle" style="padding:12px 8px;">
 
 <div align="center">
-<div style="display:inline-block;vertical-align:middle;width:48%;text-align:center;padding:12px 8px;">
 <img width="40" height="40" src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" /> <img width="40" height="40" src="https://skillicons.dev/icons?i=express&theme=dark" alt="Express" /> <img width="40" height="40" src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL" /> <img width="40" height="40" src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB" /> <img width="40" height="40" src="https://skillicons.dev/icons?i=redis&theme=dark" alt="Redis" /> <img width="40" height="40" src="https://skillicons.dev/icons?i=socketio&theme=dark" alt="Socket.io" />
-</div><!--
---><div style="display:inline-block;vertical-align:middle;width:48%;text-align:center;padding:12px 8px;">
+</div>
+
+</td>
+<td width="50%" align="center" valign="middle" style="padding:12px 8px;">
+
+<div align="center">
 <img width="40" height="40" src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" /> <img width="40" height="40" src="https://skillicons.dev/icons?i=aws&theme=dark" alt="AWS" /> <img width="40" height="40" src="https://skillicons.dev/icons?i=jest&theme=dark" alt="Jest" />
 </div>
-</div>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -203,13 +210,14 @@ open_to: "Backend / DevOps internships & collaborations"
 
 <div align="center">
 
-<p style="margin:0.5em 0;"><strong>🎯 Achievement</strong> — <strong>📊 Stats</strong></p>
-<p style="margin:0.35em 0;">DSA Problems Solved — <strong>750+ (Medium/Hard focus)</strong></p>
-<p style="margin:0.35em 0;">Platforms — LeetCode · GFG (GeeksforGeeks)</p>
-<p style="margin:0.35em 0;">Test Coverage (Fast Chat) — <strong>70%+ branch, function & line coverage</strong></p>
-<p style="margin:0.35em 0;">Deployment — <strong>AWS EC2 (Production)</strong> with SSL & Nginx</p>
-<p style="margin:0.35em 0;">Education — <strong>IIIT Sonipat — 8.0 GPA</strong></p>
-<p style="margin:0.35em 0;">Target — Backend / DevOps Internship 2026</p>
+| 🎯 Achievement | 📊 Stats |
+|:---|:---|
+| DSA Problems Solved | **750+ (Medium/Hard focus)** |
+| Platforms | LeetCode · GFG (GeeksforGeeks) |
+| Test Coverage (Fast Chat) | **70%+ branch, function & line coverage** |
+| Deployment | **AWS EC2 (Production)** with SSL & Nginx |
+| Education | **IIIT Sonipat — 8.0 GPA** |
+| Target | Backend / DevOps Internship 2026 |
 
 </div>
 
@@ -239,22 +247,26 @@ open_to: "Backend / DevOps internships & collaborations"
 
 <sub>These are <strong>personal project ideas</strong> for later — not presented as shipped products.</sub>
 
-<div align="center">
-<div style="display:inline-block;vertical-align:top;width:48%;max-width:420px;text-align:left;padding:0 10px;">
-<p><strong>🏗️ Internal Developer Platform (IDP)</strong> <em>(planned)</em></p>
-<blockquote>
-<p>A self-service Heroku-like platform where devs deploy apps with a single command. Auto-detects language, generates Docker + K8s manifests, deploys to Kubernetes, and provides live monitoring dashboards.</p>
-</blockquote>
-<p><code>Go</code> <code>React/Next.js</code> <code>Terraform</code> <code>Kubernetes</code> <code>Prometheus</code></p>
-</div><!--
---><div style="display:inline-block;vertical-align:top;width:48%;max-width:420px;text-align:left;padding:0 10px;">
-<p><strong>⚙️ Distributed Task Scheduler</strong> <em>(planned)</em></p>
-<blockquote>
-<p>A distributed task orchestration system (like Airflow/Temporal) — schedule workflows as DAGs, execute across worker nodes with retries, and monitor in real-time.</p>
-</blockquote>
-<p><code>Go</code> <code>Kafka</code> <code>PostgreSQL</code> <code>Redis</code> <code>Kubernetes</code></p>
-</div>
-</div>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🏗️ Internal Developer Platform (IDP)** *(planned)*
+> A self-service Heroku-like platform where devs deploy apps with a single command. Auto-detects language, generates Docker + K8s manifests, deploys to Kubernetes, and provides live monitoring dashboards.
+
+`Go` `React/Next.js` `Terraform` `Kubernetes` `Prometheus`
+
+</td>
+<td width="50%" valign="top">
+
+**⚙️ Distributed Task Scheduler** *(planned)*
+> A distributed task orchestration system (like Airflow/Temporal) — schedule workflows as DAGs, execute across worker nodes with retries, and monitor in real-time.
+
+`Go` `Kafka` `PostgreSQL` `Redis` `Kubernetes`
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -262,7 +274,8 @@ open_to: "Backend / DevOps internships & collaborations"
 
 <div align="center">
 
-<p style="max-width:52rem;margin:0 auto;">Ship production-grade code, not demo code. Every project should be deployable, testable, and maintainable.</p>
+| Ship production-grade code, not demo code. Every project should be deployable, testable, and maintainable. |
+|:--:|
 
 </div>
 
