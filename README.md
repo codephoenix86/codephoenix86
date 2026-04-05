@@ -6,16 +6,16 @@
 <br/>
 
 <!-- Rotating role lines: domain emoji + specifics (Readme Typing SVG) -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Syne&weight=500&size=22&pause=1600&color=C9D1D9&center=true&vCenter=false&width=880&height=96&lines=%F0%9F%96%A5%EF%B8%8F%20Backend%20Engineer%20%C2%B7%20APIs%2C%20services%2C%20data;%E2%9A%99%EF%B8%8F%20DevOps%20%C2%B7%20containers%2C%20Linux%2C%20automation;%F0%9F%8C%A7%EF%B8%8F%20Cloud%20%C2%B7%20AWS%2C%20scalability%2C%20reliability&duration=4200" alt="Domains: Backend, DevOps, Cloud" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Syne&weight=500&size=22&pause=1600&color=C9D1D9&center=true&vCenter=true&width=880&height=68&lines=%F0%9F%96%A5%EF%B8%8F%20Backend%20Engineer%20%C2%B7%20APIs%2C%20services%2C%20data;%E2%9A%99%EF%B8%8F%20DevOps%20%C2%B7%20containers%2C%20Linux%2C%20automation;%F0%9F%8C%A7%EF%B8%8F%20Cloud%20%C2%B7%20AWS%2C%20scalability%2C%20reliability&duration=4200" alt="Domains: Backend, DevOps, Cloud" /></a>
 
-<br/><br/>
+<br/>
 
 <!-- Domain tiles: multi-column SVG (no HTML tables; SMIL + CSS animations) -->
 <img src="https://raw.githubusercontent.com/codephoenix86/codephoenix86/main/assets/hero-domain-tiles.svg" width="900" alt="Backend, DevOps, Cloud — rotating focus lines per column" />
 
 <br/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=25&pause=1200&color=58A6FF&center=true&vCenter=false&width=920&height=96&lines=Building+production-grade+backend+systems;Node.js+%26+JavaScript+%7C+tested+APIs;Docker%2C+Linux+%26+AWS+from+real+deploys;Kubernetes+%26+Go+in+progress+%7C+CI%2FCD+%26+IaC+next" alt="Focus areas" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=25&pause=1200&color=58A6FF&center=true&vCenter=true&width=920&height=80&lines=Building+production-grade+backend+systems;Node.js+%26+JavaScript+%7C+tested+APIs;Docker%2C+Linux+%26+AWS+from+real+deploys;Kubernetes+%26+Go+in+progress+%7C+CI%2FCD+%26+IaC+next" alt="Focus areas" /></a>
 
 <p align="center"><strong>Scalable systems</strong> · <strong>Tested APIs</strong> · <strong>Ship with confidence</strong></p>
 
