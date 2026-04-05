@@ -21,7 +21,7 @@
 
 <a href="https://www.linkedin.com/in/nareshlohar86/"><img src="https://raw.githubusercontent.com/codephoenix86/codephoenix86/main/assets/icons/linkedin.svg" width="40" height="40" alt="LinkedIn" title="LinkedIn" /></a>
 &nbsp;
-<a href="https://hub.docker.com/repositories/nareshlohar86"><img src="https://raw.githubusercontent.com/codephoenix86/codephoenix86/main/assets/icons/docker.svg" width="40" height="40" alt="Docker Hub" title="Docker Hub — repositories" /></a>
+<a href="https://hub.docker.com/u/nareshlohar86"><img src="https://raw.githubusercontent.com/codephoenix86/codephoenix86/main/assets/icons/docker.svg" width="40" height="40" alt="Docker Hub" title="Docker Hub — profile" /></a>
 &nbsp;
 <a href="https://codolio.com/profile/nareshlohar86"><img src="https://raw.githubusercontent.com/codephoenix86/codephoenix86/main/assets/icons/codolio.svg" width="40" height="40" alt="Codolio" title="Codolio — DSA &amp; CP profile" /></a>
 &nbsp;
