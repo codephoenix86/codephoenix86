@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 218" width="900" height="218" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 138" width="900" height="138" role="img" aria-labelledby="title desc">
   <title id="title">Domains: Backend, DevOps, Cloud</title>
   <desc id="desc">Three columns with icons and rotating focus lines per domain.</desc>
   <defs>
@@ -7,7 +7,7 @@
       .label { animation: softPulse 3.2s ease-in-out infinite; }
     ]]></style>
   </defs>
-  <rect width="900" height="218" fill="#0d1117" rx="8"/>
+  <rect width="900" height="138" fill="#0d1117" rx="8"/>
 
   <!-- Backend -->
   <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGZpbGw9IiM1OEE2RkYiIGQ9Ik0xMyAxOWgxYTEgMSAwIDAgMSAxIDFoN3YyaC03YTEgMSAwIDAgMS0xIDFoLTRhMSAxIDAgMCAxLTEtMUgydi0yaDdhMSAxIDAgMCAxIDEtMWgxdi0ySDRhMSAxIDAgMCAxLTEtMXYtNGExIDEgMCAwIDEgMS0xaDE2YTEgMSAwIDAgMSAxIDF2NGExIDEgMCAwIDEtMSAxaC03ek00IDNoMTZhMSAxIDAgMCAxIDEgMXY0YTEgMSAwIDAgMS0xIDFINGExIDEgMCAwIDEtMS0xVjRhMSAxIDAgMCAxIDEtMW01IDRoMVY1SDl6bTAgOGgxdi0ySDl6TTUgNXYyaDJWNXptMCA4djJoMnYtMnoiLz48L3N2Zz4=" x="128" y="14" width="44" height="44"/>
