@@ -6,7 +6,7 @@
 <br/>
 
 <!-- Rotating role lines: domain emoji + specifics (Readme Typing SVG) -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Syne&weight=600&size=23&pause=1600&color=C9D1D9&center=true&vCenter=true&width=880&height=72&lines=%F0%9F%96%A5%EF%B8%8F%20Backend%20Engineer%20%C2%B7%20APIs%2C%20services%2C%20data;%E2%9A%99%EF%B8%8F%20DevOps%20%C2%B7%20containers%2C%20Linux%2C%20automation;%F0%9F%8C%A7%EF%B8%8F%20Cloud%20%C2%B7%20AWS%2C%20scalability%2C%20reliability&duration=4200" alt="Domains: Backend, DevOps, Cloud" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Syne&weight=500&size=22&pause=1600&color=C9D1D9&center=true&vCenter=false&width=880&height=96&lines=%F0%9F%96%A5%EF%B8%8F%20Backend%20Engineer%20%C2%B7%20APIs%2C%20services%2C%20data;%E2%9A%99%EF%B8%8F%20DevOps%20%C2%B7%20containers%2C%20Linux%2C%20automation;%F0%9F%8C%A7%EF%B8%8F%20Cloud%20%C2%B7%20AWS%2C%20scalability%2C%20reliability&duration=4200" alt="Domains: Backend, DevOps, Cloud" /></a>
 
 <br/><br/>
 
@@ -15,7 +15,7 @@
 
 <br/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1200&color=58A6FF&center=true&vCenter=true&width=920&height=82&lines=Building+production-grade+backend+systems;Node.js+%26+JavaScript+%7C+tested+APIs;Docker%2C+Linux+%26+AWS+from+real+deploys;Kubernetes+%26+Go+in+progress+%7C+CI%2FCD+%26+IaC+next" alt="Focus areas" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=25&pause=1200&color=58A6FF&center=true&vCenter=false&width=920&height=96&lines=Building+production-grade+backend+systems;Node.js+%26+JavaScript+%7C+tested+APIs;Docker%2C+Linux+%26+AWS+from+real+deploys;Kubernetes+%26+Go+in+progress+%7C+CI%2FCD+%26+IaC+next" alt="Focus areas" /></a>
 
 <p align="center"><strong>Scalable systems</strong> · <strong>Tested APIs</strong> · <strong>Ship with confidence</strong></p>
 
@@ -25,13 +25,13 @@
 &nbsp;
 <a href="https://hub.docker.com/repositories/nareshlohar86"><img src="https://raw.githubusercontent.com/codephoenix86/codephoenix86/main/assets/icons/docker.svg" width="40" height="40" alt="Docker Hub" title="Docker Hub — repositories" /></a>
 &nbsp;
-<a href="https://codolio.com/profile/nareshlohar86"><img src="https://raw.githubusercontent.com/codephoenix86/codephoenix86/main/assets/icons/codolio.svg" width="40" height="40" alt="Codolio" title="Codolio — profile" /></a>
+<a href="https://codolio.com/profile/nareshlohar86"><img src="https://raw.githubusercontent.com/codephoenix86/codephoenix86/main/assets/icons/codolio.svg" width="40" height="40" alt="Codolio" title="Codolio — DSA &amp; CP profile" /></a>
 &nbsp;
 <a href="mailto:nareshlohar066@gmail.com"><img src="https://raw.githubusercontent.com/codephoenix86/codephoenix86/main/assets/icons/gmail.svg" width="40" height="40" alt="Gmail" title="Gmail" /></a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=2500&color=8B949E&center=true&vCenter=true&width=780&height=56&lines=Open+to+Backend+%2F+DevOps+roles+%E2%80%A2+IIIT+Sonipat+%E2%80%A2+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Availability" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=2500&color=8B949E&center=true&vCenter=false&width=780&height=62&lines=Open+to+Backend+%2F+DevOps+roles+%E2%80%A2+IIIT+Sonipat+%E2%80%A2+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Availability" />
 
 <sub>Hero: <a href="https://github.com/codephoenix86/codephoenix86/blob/main/assets/banner.svg">banner.svg</a> · <a href="https://github.com/codephoenix86/codephoenix86/blob/main/assets/hero-domain-tiles.svg">hero-domain-tiles.svg</a> · <a href="https://github.com/DenverCoder1/readme-typing-svg">Readme Typing SVG</a> · <a href="https://iconify.design/">Iconify</a> · <a href="https://simpleicons.org/">Simple Icons</a> (LinkedIn, Gmail)</sub>
 
