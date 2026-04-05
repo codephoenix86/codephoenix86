@@ -6,7 +6,7 @@
 <br/>
 
 <!-- Rotating role lines: domain emoji + specifics (Readme Typing SVG) -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Syne&weight=600&size=23&pause=1600&color=C9D1D9&center=true&vCenter=true&width=880&lines=%F0%9F%96%A5%EF%B8%8F%20Backend%20Engineer%20%C2%B7%20APIs%2C%20services%2C%20data;%E2%9A%99%EF%B8%8F%20DevOps%20%C2%B7%20containers%2C%20Linux%2C%20automation;%F0%9F%8C%A7%EF%B8%8F%20Cloud%20%C2%B7%20AWS%2C%20scalability%2C%20reliability&duration=4200" alt="Domains: Backend, DevOps, Cloud" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Syne&weight=600&size=23&pause=1600&color=C9D1D9&center=true&vCenter=true&width=880&height=72&lines=%F0%9F%96%A5%EF%B8%8F%20Backend%20Engineer%20%C2%B7%20APIs%2C%20services%2C%20data;%E2%9A%99%EF%B8%8F%20DevOps%20%C2%B7%20containers%2C%20Linux%2C%20automation;%F0%9F%8C%A7%EF%B8%8F%20Cloud%20%C2%B7%20AWS%2C%20scalability%2C%20reliability&duration=4200" alt="Domains: Backend, DevOps, Cloud" /></a>
 
 <br/><br/>
 
@@ -15,25 +15,25 @@
 
 <br/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1200&color=58A6FF&center=true&vCenter=true&width=920&lines=Building+production-grade+backend+systems;Node.js+%26+JavaScript+%7C+tested+APIs;Docker%2C+Linux+%26+AWS+from+real+deploys;Kubernetes+%26+Go+in+progress+%7C+CI%2FCD+%26+IaC+next" alt="Focus areas" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1200&color=58A6FF&center=true&vCenter=true&width=920&height=82&lines=Building+production-grade+backend+systems;Node.js+%26+JavaScript+%7C+tested+APIs;Docker%2C+Linux+%26+AWS+from+real+deploys;Kubernetes+%26+Go+in+progress+%7C+CI%2FCD+%26+IaC+next" alt="Focus areas" /></a>
 
 <p align="center"><strong>Scalable systems</strong> · <strong>Tested APIs</strong> · <strong>Ship with confidence</strong></p>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/nareshlohar86/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" title="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/nareshlohar86/"><img src="https://raw.githubusercontent.com/codephoenix86/codephoenix86/main/assets/icons/linkedin.svg" width="40" height="40" alt="LinkedIn" title="LinkedIn" /></a>
 &nbsp;
-<a href="https://hub.docker.com/repositories/nareshlohar86"><img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker Hub" title="Docker Hub — repositories" /></a>
+<a href="https://hub.docker.com/repositories/nareshlohar86"><img src="https://raw.githubusercontent.com/codephoenix86/codephoenix86/main/assets/icons/docker.svg" width="40" height="40" alt="Docker Hub" title="Docker Hub — repositories" /></a>
 &nbsp;
-<a href="https://codolio.com/profile/nareshlohar86"><img src="https://codolio.com/favicon.ico" height="40" alt="Codolio" title="Codolio" /></a>
+<a href="https://codolio.com/profile/nareshlohar86"><img src="https://raw.githubusercontent.com/codephoenix86/codephoenix86/main/assets/icons/codolio.svg" width="40" height="40" alt="Codolio" title="Codolio — profile" /></a>
 &nbsp;
-<a href="mailto:nareshlohar066@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" title="Gmail" /></a>
+<a href="mailto:nareshlohar066@gmail.com"><img src="https://raw.githubusercontent.com/codephoenix86/codephoenix86/main/assets/icons/gmail.svg" width="40" height="40" alt="Gmail" title="Gmail" /></a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=2500&color=8B949E&center=true&vCenter=true&width=780&lines=Open+to+Backend+%2F+DevOps+roles+%E2%80%A2+IIIT+Sonipat+%E2%80%A2+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Availability" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=2500&color=8B949E&center=true&vCenter=true&width=780&height=56&lines=Open+to+Backend+%2F+DevOps+roles+%E2%80%A2+IIIT+Sonipat+%E2%80%A2+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Availability" />
 
-<sub>Hero: <a href="https://github.com/codephoenix86/codephoenix86/blob/main/assets/banner.svg">banner.svg</a> · <a href="https://github.com/codephoenix86/codephoenix86/blob/main/assets/hero-domain-tiles.svg">hero-domain-tiles.svg</a> · <a href="https://github.com/DenverCoder1/readme-typing-svg">Readme Typing SVG</a> · <a href="https://iconify.design/">Iconify</a> · <a href="https://skillicons.dev">Skill Icons</a> · <a href="https://simpleicons.org/">Simple Icons</a></sub>
+<sub>Hero: <a href="https://github.com/codephoenix86/codephoenix86/blob/main/assets/banner.svg">banner.svg</a> · <a href="https://github.com/codephoenix86/codephoenix86/blob/main/assets/hero-domain-tiles.svg">hero-domain-tiles.svg</a> · <a href="https://github.com/DenverCoder1/readme-typing-svg">Readme Typing SVG</a> · <a href="https://iconify.design/">Iconify</a> · <a href="https://simpleicons.org/">Simple Icons</a> (LinkedIn, Gmail)</sub>
 
 </div>
 
@@ -89,7 +89,7 @@ open_to: "Backend / DevOps internships & collaborations"
 
 ## 🛠️ Tech Arsenal
 
-<sub>Stack rows: <a href="https://github.com/codephoenix86/codephoenix86/tree/main/assets">SVG in this repo</a> (multi-column, animated) · icons via <a href="https://skillicons.dev">Skill Icons</a> &amp; <a href="https://simpleicons.org">Simple Icons</a></sub>
+<sub>Stack rows: <a href="https://github.com/codephoenix86/codephoenix86/tree/main/assets">SVG in this repo</a> (multi-column, animated) · icons: <a href="https://simpleicons.org">Simple Icons</a> &amp; project <code>assets/icons</code></sub>
 
 ### Languages
 
@@ -174,14 +174,14 @@ open_to: "Backend / DevOps internships & collaborations"
 <td width="50%" align="center" valign="middle" style="padding:12px 8px;">
 
 <div align="center">
-<img width="40" height="40" src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" /> <img width="40" height="40" src="https://skillicons.dev/icons?i=express&theme=dark" alt="Express" /> <img width="40" height="40" src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL" /> <img width="40" height="40" src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB" /> <img width="40" height="40" src="https://skillicons.dev/icons?i=redis&theme=dark" alt="Redis" /> <img width="40" height="40" src="https://skillicons.dev/icons?i=socketio&theme=dark" alt="Socket.io" />
+<img width="40" height="40" src="https://raw.githubusercontent.com/codephoenix86/codephoenix86/main/assets/icons/nodejs.svg" alt="Node.js" /> <img width="40" height="40" src="https://raw.githubusercontent.com/codephoenix86/codephoenix86/main/assets/icons/express.svg" alt="Express" /> <img width="40" height="40" src="https://raw.githubusercontent.com/codephoenix86/codephoenix86/main/assets/icons/postgres.svg" alt="PostgreSQL" /> <img width="40" height="40" src="https://raw.githubusercontent.com/codephoenix86/codephoenix86/main/assets/icons/mongodb.svg" alt="MongoDB" /> <img width="40" height="40" src="https://raw.githubusercontent.com/codephoenix86/codephoenix86/main/assets/icons/redis.svg" alt="Redis" /> <img width="40" height="40" src="https://raw.githubusercontent.com/codephoenix86/codephoenix86/main/assets/icons/socketdotio.svg" alt="Socket.io" />
 </div>
 
 </td>
 <td width="50%" align="center" valign="middle" style="padding:12px 8px;">
 
 <div align="center">
-<img width="40" height="40" src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" /> <img width="40" height="40" src="https://skillicons.dev/icons?i=aws&theme=dark" alt="AWS" /> <img width="40" height="40" src="https://skillicons.dev/icons?i=jest&theme=dark" alt="Jest" />
+<img width="40" height="40" src="https://raw.githubusercontent.com/codephoenix86/codephoenix86/main/assets/icons/docker.svg" alt="Docker" /> <img width="40" height="40" src="https://raw.githubusercontent.com/codephoenix86/codephoenix86/main/assets/icons/aws.svg" alt="AWS" /> <img width="40" height="40" src="https://raw.githubusercontent.com/codephoenix86/codephoenix86/main/assets/icons/jest.svg" alt="Jest" />
 </div>
 
 </td>
