@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 218" width="900" height="218" role="img" aria-labelledby="title desc">
+  <title id="title">Domains: Backend, DevOps, Cloud</title>
+  <desc id="desc">Three columns with icons and rotating focus lines per domain.</desc>
+  <defs>
+    <style><![CDATA[
+      @keyframes softPulse { 0%, 100% { opacity: 0.92; } 50% { opacity: 1; } }
+      .label { animation: softPulse 3.2s ease-in-out infinite; }
+    ]]></style>
+  </defs>
+  <rect width="900" height="218" fill="#0d1117" rx="8"/>
+
+  <!-- Backend -->
+  <image href="https://api.iconify.design/mdi/server-network.svg?color=%2358A6FF" x="128" y="14" width="44" height="44"/>
+  <text class="label" x="150" y="78" text-anchor="middle" fill="#c9d1d9" font-size="13" font-weight="700" font-family="system-ui,Segoe UI,sans-serif">Backend</text>
+  <g font-size="12" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" fill="#58A6FF" text-anchor="middle">
+    <text x="150" y="118">REST APIs<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.333;0.334;1" dur="9s" repeatCount="indefinite"/></text>
+    <text x="150" y="118" opacity="0">Socket.io real-time<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.333;0.334;0.666;0.667;1" dur="9s" repeatCount="indefinite"/></text>
+    <text x="150" y="118" opacity="0">Clean service boundaries<animate attributeName="opacity" values="0;0;0;0;1;1;0" keyTimes="0;0.666;0.667;0.668;0.67;0.994;1" dur="9s" repeatCount="indefinite"/></text>
+  </g>
+
+  <!-- DevOps -->
+  <image href="https://api.iconify.design/mdi/source-branch-sync.svg?color=%23F78166" x="428" y="14" width="44" height="44"/>
+  <text class="label" x="450" y="78" text-anchor="middle" fill="#c9d1d9" font-size="13" font-weight="700" font-family="system-ui,Segoe UI,sans-serif">DevOps</text>
+  <g font-size="12" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" fill="#F78166" text-anchor="middle">
+    <text x="450" y="118">Docker &amp; Compose<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.333;0.334;1" dur="9s" repeatCount="indefinite"/></text>
+    <text x="450" y="118" opacity="0">Linux &amp; automation<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.333;0.334;0.666;0.667;1" dur="9s" repeatCount="indefinite"/></text>
+    <text x="450" y="118" opacity="0">CI/CD on the roadmap<animate attributeName="opacity" values="0;0;0;0;1;1;0" keyTimes="0;0.666;0.667;0.668;0.67;0.994;1" dur="9s" repeatCount="indefinite"/></text>
+  </g>
+
+  <!-- Cloud -->
+  <image href="https://api.iconify.design/noto/cloud-with-rain.svg" x="726" y="12" width="48" height="48"/>
+  <text class="label" x="750" y="78" text-anchor="middle" fill="#c9d1d9" font-size="13" font-weight="700" font-family="system-ui,Segoe UI,sans-serif">Cloud</text>
+  <g font-size="12" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" fill="#79C0FF" text-anchor="middle">
+    <text x="750" y="118">AWS EC2 / S3<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.333;0.334;1" dur="9s" repeatCount="indefinite"/></text>
+    <text x="750" y="118" opacity="0">Nginx &amp; TLS<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.333;0.334;0.666;0.667;1" dur="9s" repeatCount="indefinite"/></text>
+    <text x="750" y="118" opacity="0">Ship with confidence<animate attributeName="opacity" values="0;0;0;0;1;1;0" keyTimes="0;0.666;0.667;0.668;0.67;0.994;1" dur="9s" repeatCount="indefinite"/></text>
+  </g>
+
+</svg>

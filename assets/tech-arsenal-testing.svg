@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 128" width="920" height="128" role="img" aria-labelledby="t1 d1">
+  <title id="t1">Testing and Quality</title>
+  <desc id="d1">Jest, Supertest, ESLint.</desc>
+  <defs>
+    <style><![CDATA[
+      @keyframes pulse { 0%, 100% { opacity: 0.86; } 50% { opacity: 1; } }
+      .s1 { animation: pulse 2.5s ease-in-out 0s infinite; }
+      .s2 { animation: pulse 2.5s ease-in-out 0.4s infinite; }
+      .s3 { animation: pulse 2.5s ease-in-out 0.8s infinite; }
+    ]]></style>
+  </defs>
+  <rect width="920" height="128" fill="#0d1117" rx="8"/>
+  <image href="https://skillicons.dev/icons?i=jest" x="131" y="10" width="44" height="44"/>
+  <text x="153" y="72" text-anchor="middle" fill="#f0f6fc" font-size="14" font-weight="700" font-family="system-ui,Segoe UI,sans-serif">Jest</text>
+  <text class="s1" x="153" y="102" text-anchor="middle" fill="#8b949e" font-size="12" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">unit &amp; integration</text>
+
+  <image href="https://cdn.simpleicons.org/npm/CB3837" x="438" y="10" width="44" height="44"/>
+  <text x="460" y="72" text-anchor="middle" fill="#f0f6fc" font-size="14" font-weight="700" font-family="system-ui,Segoe UI,sans-serif">Supertest</text>
+  <text class="s2" x="460" y="102" text-anchor="middle" fill="#8b949e" font-size="12" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">HTTP API tests</text>
+
+  <image href="https://cdn.simpleicons.org/eslint/4B32C3" x="745" y="10" width="44" height="44"/>
+  <text x="767" y="72" text-anchor="middle" fill="#f0f6fc" font-size="14" font-weight="700" font-family="system-ui,Segoe UI,sans-serif">ESLint</text>
+  <text class="s3" x="767" y="102" text-anchor="middle" fill="#8b949e" font-size="12" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">linting</text>
+</svg>

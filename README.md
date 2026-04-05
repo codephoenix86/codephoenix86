@@ -10,12 +10,8 @@
 
 <br/><br/>
 
-<!-- Domain tiles: inline-block spans (no <table> — GitHub applies borders to all tables) -->
-<p align="center" style="margin:0;">
-<span style="display:inline-block;vertical-align:top;text-align:center;padding:0 10px;"><img src="https://api.iconify.design/mdi/server-network.svg?color=%2358A6FF" width="44" height="44" alt="Backend" title="Backend" /><br/><sub><strong>Backend</strong></sub><br/><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&pause=3000&color=58A6FF&center=true&width=260&lines=REST%20APIs;Socket.io%20real-time;Clean%20service%20boundaries&duration=3200" alt="Backend focus" /></span><!--
---><span style="display:inline-block;vertical-align:top;text-align:center;padding:0 10px;"><img src="https://api.iconify.design/mdi/source-branch-sync.svg?color=%23F78166" width="44" height="44" alt="DevOps" title="DevOps" /><br/><sub><strong>DevOps</strong></sub><br/><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&pause=3000&color=F78166&center=true&width=260&lines=Docker%20%26%20Compose;Linux%20%26%20scripting;CI%2FCD%20on%20the%20roadmap&duration=3200" alt="DevOps focus" /></span><!--
---><span style="display:inline-block;vertical-align:top;text-align:center;padding:0 10px;"><img src="https://api.iconify.design/noto/cloud-with-rain.svg" width="48" height="48" alt="Cloud" title="Cloud (rain cloud)" /><br/><sub><strong>Cloud</strong></sub><br/><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&pause=3000&color=79C0FF&center=true&width=260&lines=AWS%20EC2%20%2F%20S3;Nginx%20%26%20TLS;Ship%20with%20confidence&duration=3200" alt="Cloud focus" /></span>
-</p>
+<!-- Domain tiles: multi-column SVG (no HTML tables; SMIL + CSS animations) -->
+<img src="https://raw.githubusercontent.com/codephoenix86/codephoenix86/main/assets/hero-domain-tiles.svg" width="900" alt="Backend, DevOps, Cloud — rotating focus lines per column" />
 
 <br/>
 
@@ -37,7 +33,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=2500&color=8B949E&center=true&vCenter=true&width=780&lines=Open+to+Backend+%2F+DevOps+roles+%E2%80%A2+IIIT+Sonipat+%E2%80%A2+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Availability" />
 
-<sub>Hero: <a href="https://github.com/codephoenix86/codephoenix86/blob/main/assets/banner.svg">banner.svg</a> · <a href="https://github.com/DenverCoder1/readme-typing-svg">Readme Typing SVG</a> · <a href="https://iconify.design/">Iconify</a> · <a href="https://skillicons.dev">Skill Icons</a> · <a href="https://simpleicons.org/">Simple Icons</a></sub>
+<sub>Hero: <a href="https://github.com/codephoenix86/codephoenix86/blob/main/assets/banner.svg">banner.svg</a> · <a href="https://github.com/codephoenix86/codephoenix86/blob/main/assets/hero-domain-tiles.svg">hero-domain-tiles.svg</a> · <a href="https://github.com/DenverCoder1/readme-typing-svg">Readme Typing SVG</a> · <a href="https://iconify.design/">Iconify</a> · <a href="https://skillicons.dev">Skill Icons</a> · <a href="https://simpleicons.org/">Simple Icons</a></sub>
 
 </div>
 
@@ -93,17 +89,13 @@ open_to: "Backend / DevOps internships & collaborations"
 
 ## 🛠️ Tech Arsenal
 
-<sub>Icons via <a href="https://skillicons.dev">Skill Icons</a> &amp; <a href="https://simpleicons.org">Simple Icons</a> · each tile = tool + label</sub>
+<sub>Stack rows: <a href="https://github.com/codephoenix86/codephoenix86/tree/main/assets">SVG in this repo</a> (multi-column, animated) · icons via <a href="https://skillicons.dev">Skill Icons</a> &amp; <a href="https://simpleicons.org">Simple Icons</a></sub>
 
 ### Languages
 
 <div align="center">
 
-<p style="margin:0;">
-<span style="display:inline-block;vertical-align:top;text-align:center;padding:0 14px;"><img height="44" src="https://skillicons.dev/icons?i=js" alt="JavaScript" /><br/><strong>JavaScript</strong><br/><sub>Node & browser</sub></span><!--
---><span style="display:inline-block;vertical-align:top;text-align:center;padding:0 14px;"><img height="44" src="https://skillicons.dev/icons?i=bash" alt="Bash" /><br/><strong>Bash</strong><br/><sub>Linux & automation</sub></span><!--
---><span style="display:inline-block;vertical-align:top;text-align:center;padding:0 14px;"><img height="44" src="https://skillicons.dev/icons?i=go" alt="Go" /><br/><strong>Go</strong><br/><sub>CLI & services (growing)</sub></span>
-</p>
+<img src="https://raw.githubusercontent.com/codephoenix86/codephoenix86/main/assets/tech-arsenal-languages.svg" width="920" alt="Languages: JavaScript, Bash, Go" />
 
 </div>
 
@@ -111,12 +103,7 @@ open_to: "Backend / DevOps internships & collaborations"
 
 <div align="center">
 
-<p style="margin:0;">
-<span style="display:inline-block;vertical-align:top;text-align:center;padding:0 10px;"><img height="44" src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /><br/><strong>Node.js</strong><br/><sub>evented runtime</sub></span><!--
---><span style="display:inline-block;vertical-align:top;text-align:center;padding:0 10px;"><img height="44" src="https://skillicons.dev/icons?i=express" alt="Express" /><br/><strong>Express</strong><br/><sub>HTTP layer</sub></span><!--
---><span style="display:inline-block;vertical-align:top;text-align:center;padding:0 10px;"><img height="44" src="https://skillicons.dev/icons?i=postman" alt="REST" /><br/><strong>REST APIs</strong><br/><sub>design & testing</sub></span><!--
---><span style="display:inline-block;vertical-align:top;text-align:center;padding:0 10px;"><img height="44" src="https://cdn.simpleicons.org/socketdotio/ffffff" alt="Socket.io" /><br/><strong>Socket.io</strong><br/><sub>rooms, events & fallbacks</sub></span>
-</p>
+<img src="https://raw.githubusercontent.com/codephoenix86/codephoenix86/main/assets/tech-arsenal-backend.svg" width="980" alt="Backend and APIs: Node.js, Express, REST, Socket.io" />
 
 </div>
 
@@ -124,11 +111,7 @@ open_to: "Backend / DevOps internships & collaborations"
 
 <div align="center">
 
-<p style="margin:0;">
-<span style="display:inline-block;vertical-align:top;text-align:center;padding:0 14px;"><img height="44" src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /><br/><strong>PostgreSQL</strong><br/><sub>relational core</sub></span><!--
---><span style="display:inline-block;vertical-align:top;text-align:center;padding:0 14px;"><img height="44" src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /><br/><strong>MongoDB</strong><br/><sub>document store</sub></span><!--
---><span style="display:inline-block;vertical-align:top;text-align:center;padding:0 14px;"><img height="44" src="https://skillicons.dev/icons?i=redis" alt="Redis" /><br/><strong>Redis</strong><br/><sub>cache & sessions</sub></span>
-</p>
+<img src="https://raw.githubusercontent.com/codephoenix86/codephoenix86/main/assets/tech-arsenal-databases.svg" width="920" alt="Databases: PostgreSQL, MongoDB, Redis" />
 
 </div>
 
@@ -138,19 +121,11 @@ open_to: "Backend / DevOps internships & collaborations"
 
 <div align="center">
 
-<p style="margin:0;">
-<span style="display:inline-block;vertical-align:top;text-align:center;padding:0 10px;"><img height="44" src="https://skillicons.dev/icons?i=docker" alt="Docker" /><br/><strong>Docker</strong><br/><sub>containers & Compose</sub></span><!--
---><span style="display:inline-block;vertical-align:top;text-align:center;padding:0 10px;"><img height="44" src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" /><br/><strong>Kubernetes</strong><br/><sub>pods, Helm (growing)</sub></span><!--
---><span style="display:inline-block;vertical-align:top;text-align:center;padding:0 10px;"><img height="44" src="https://skillicons.dev/icons?i=aws" alt="AWS" /><br/><strong>AWS</strong><br/><sub>EC2, S3, IAM basics</sub></span><!--
---><span style="display:inline-block;vertical-align:top;text-align:center;padding:0 10px;"><img height="44" src="https://skillicons.dev/icons?i=nginx" alt="Nginx" /><br/><strong>Nginx</strong><br/><sub>reverse proxy & TLS</sub></span>
-</p>
+<img src="https://raw.githubusercontent.com/codephoenix86/codephoenix86/main/assets/tech-arsenal-devops-row1.svg" width="980" alt="DevOps and Cloud: Docker, Kubernetes, AWS, Nginx" />
 
 <br/>
 
-<p style="margin:0;">
-<span style="display:inline-block;vertical-align:top;text-align:center;padding:0 14px;"><img height="44" src="https://skillicons.dev/icons?i=linux" alt="Linux" /><br/><strong>Linux</strong><br/><sub>servers & shell</sub></span><!--
---><span style="display:inline-block;vertical-align:top;text-align:center;padding:0 14px;"><img height="44" src="https://skillicons.dev/icons?i=git" alt="Git" /><br/><strong>Git</strong><br/><sub>version control</sub></span>
-</p>
+<img src="https://raw.githubusercontent.com/codephoenix86/codephoenix86/main/assets/tech-arsenal-devops-row2.svg" width="520" alt="DevOps and Cloud: Linux, Git" />
 
 </div>
 
@@ -158,11 +133,7 @@ open_to: "Backend / DevOps internships & collaborations"
 
 <div align="center">
 
-<p style="margin:0;">
-<span style="display:inline-block;vertical-align:top;text-align:center;padding:0 12px;"><img height="44" src="https://skillicons.dev/icons?i=jest" alt="Jest" /><br/><strong>Jest</strong><br/><sub>unit & integration</sub></span><!--
---><span style="display:inline-block;vertical-align:top;text-align:center;padding:0 12px;"><img height="44" src="https://cdn.simpleicons.org/npm/CB3837" alt="Supertest" /><br/><strong>Supertest</strong><br/><sub>HTTP API tests</sub></span><!--
---><span style="display:inline-block;vertical-align:top;text-align:center;padding:0 12px;"><img height="44" src="https://cdn.simpleicons.org/eslint/4B32C3" alt="ESLint" /><br/><strong>ESLint</strong><br/><sub>linting</sub></span>
-</p>
+<img src="https://raw.githubusercontent.com/codephoenix86/codephoenix86/main/assets/tech-arsenal-testing.svg" width="920" alt="Testing: Jest, Supertest, ESLint" />
 
 </div>
 
