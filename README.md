@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Hero banner: large display name — gradient, stroke, twinkling (Capsule Render) -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=260&section=header&color=0:0a1628,100:152238&text=Krishnkant%20Lohar&fontSize=56&fontColor=58A6FF&fontAlignY=42&stroke=0d1117&strokeWidth=2&animation=twinkling" width="100%" alt="Krishnkant Lohar" />
+<!-- Hero banner: terminal-style SVG in this repo -->
+<img src="https://raw.githubusercontent.com/codephoenix86/codephoenix86/main/assets/banner.svg" width="100%" alt="Krishnkant Lohar — banner" />
 
 <br/>
 
@@ -51,7 +51,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=2500&color=8B949E&center=true&vCenter=true&width=780&lines=Open+to+Backend+%2F+DevOps+roles+%E2%80%A2+IIIT+Sonipat+%E2%80%A2+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Availability" />
 
-<sub>Hero stack: <a href="https://github.com/kyechan99/capsule-render">Capsule Render</a> · <a href="https://github.com/DenverCoder1/readme-typing-svg">Readme Typing SVG</a> · <a href="https://iconify.design/">Iconify</a> · <a href="https://skillicons.dev">Skill Icons</a> · <a href="https://simpleicons.org/">Simple Icons</a></sub>
+<sub>Hero: <a href="https://github.com/codephoenix86/codephoenix86/blob/main/assets/banner.svg">banner.svg</a> · <a href="https://github.com/DenverCoder1/readme-typing-svg">Readme Typing SVG</a> · <a href="https://iconify.design/">Iconify</a> · <a href="https://skillicons.dev">Skill Icons</a> · <a href="https://simpleicons.org/">Simple Icons</a></sub>
 
 </div>
 
