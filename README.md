@@ -17,8 +17,6 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=25&pause=1200&color=58A6FF&center=true&vCenter=true&width=920&height=80&lines=Building+production-grade+backend+systems;Node.js+%26+JavaScript+%7C+tested+APIs;Docker%2C+Linux+%26+AWS+from+real+deploys;Kubernetes+%26+Go+in+progress+%7C+CI%2FCD+%26+IaC+next" alt="Focus areas" /></a>
 
-<p align="center"><strong>Scalable systems</strong> · <strong>Tested APIs</strong> · <strong>Ship with confidence</strong></p>
-
 <br/>
 
 <a href="https://www.linkedin.com/in/nareshlohar86/"><img src="https://raw.githubusercontent.com/codephoenix86/codephoenix86/main/assets/icons/linkedin.svg" width="40" height="40" alt="LinkedIn" title="LinkedIn" /></a>

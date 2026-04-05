@@ -33,7 +33,7 @@
   <g font-size="12" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" fill="#79C0FF" text-anchor="middle">
     <text x="750" y="118">AWS EC2 / S3<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.333;0.334;1" dur="9s" repeatCount="indefinite"/></text>
     <text x="750" y="118" opacity="0">Nginx &amp; TLS<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.333;0.334;0.666;0.667;1" dur="9s" repeatCount="indefinite"/></text>
-    <text x="750" y="118" opacity="0">Ship with confidence<animate attributeName="opacity" values="0;0;0;0;1;1;0" keyTimes="0;0.666;0.667;0.668;0.67;0.994;1" dur="9s" repeatCount="indefinite"/></text>
+    <text x="750" y="118" opacity="0">IAM roles &amp; least privilege<animate attributeName="opacity" values="0;0;0;0;1;1;0" keyTimes="0;0.666;0.667;0.668;0.67;0.994;1" dur="9s" repeatCount="indefinite"/></text>
   </g>
 
 </svg>
