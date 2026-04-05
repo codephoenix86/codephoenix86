@@ -10,20 +10,20 @@
 
 <br/><br/>
 
-<!-- Domain tiles: icons (Iconify) + animated labels (Readme Typing SVG) -->
-<table>
+<!-- Domain tiles: icons (Iconify) + animated labels (Readme Typing SVG); borderless HTML table -->
+<table border="0" cellspacing="0" cellpadding="0" align="center" style="border: none; border-collapse: collapse;">
 <tr>
-<td align="center" width="33%">
+<td align="center" width="33%" valign="top" style="border: none; padding: 0 10px;">
 <img src="https://api.iconify.design/mdi/server-network.svg?color=%2358A6FF" width="44" height="44" alt="Backend" title="Backend" /><br/>
 <sub><strong>Backend</strong></sub><br/>
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&pause=3000&color=58A6FF&center=true&width=260&lines=REST%20APIs;Socket.io%20real-time;Clean%20service%20boundaries&duration=3200" alt="Backend focus" />
 </td>
-<td align="center" width="33%">
+<td align="center" width="33%" valign="top" style="border: none; padding: 0 10px;">
 <img src="https://api.iconify.design/mdi/source-branch-sync.svg?color=%23F78166" width="44" height="44" alt="DevOps" title="DevOps" /><br/>
 <sub><strong>DevOps</strong></sub><br/>
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&pause=3000&color=F78166&center=true&width=260&lines=Docker%20%26%20Compose;Linux%20%26%20scripting;CI%2FCD%20on%20the%20roadmap&duration=3200" alt="DevOps focus" />
 </td>
-<td align="center" width="33%">
+<td align="center" width="33%" valign="top" style="border: none; padding: 0 10px;">
 <img src="https://api.iconify.design/noto/cloud-with-rain.svg" width="48" height="48" alt="Cloud" title="Cloud (rain cloud)" /><br/>
 <sub><strong>Cloud</strong></sub><br/>
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&pause=3000&color=79C0FF&center=true&width=260&lines=AWS%20EC2%20%2F%20S3;Nginx%20%26%20TLS;Ship%20with%20confidence&duration=3200" alt="Cloud focus" />
@@ -113,10 +113,25 @@ open_to: "Backend / DevOps internships & collaborations"
 
 <div align="center">
 
-| <img height="44" src="https://skillicons.dev/icons?i=js" alt="JavaScript" /> | <img height="44" src="https://skillicons.dev/icons?i=bash" alt="Bash" /> | <img height="44" src="https://skillicons.dev/icons?i=go" alt="Go" /> |
-| :---: | :---: | :---: |
-| **JavaScript** | **Bash** | **Go** |
-| <sub>Node & browser</sub> | <sub>Linux & automation</sub> | <sub>CLI & services (growing)</sub> |
+<table border="0" cellspacing="0" cellpadding="0" align="center" style="border: none; border-collapse: collapse;">
+<tr>
+<td align="center" valign="top" style="border: none; padding: 0 14px;">
+<img height="44" src="https://skillicons.dev/icons?i=js" alt="JavaScript" /><br/>
+<strong>JavaScript</strong><br/>
+<sub>Node & browser</sub>
+</td>
+<td align="center" valign="top" style="border: none; padding: 0 14px;">
+<img height="44" src="https://skillicons.dev/icons?i=bash" alt="Bash" /><br/>
+<strong>Bash</strong><br/>
+<sub>Linux & automation</sub>
+</td>
+<td align="center" valign="top" style="border: none; padding: 0 14px;">
+<img height="44" src="https://skillicons.dev/icons?i=go" alt="Go" /><br/>
+<strong>Go</strong><br/>
+<sub>CLI & services (growing)</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -124,10 +139,30 @@ open_to: "Backend / DevOps internships & collaborations"
 
 <div align="center">
 
-| <img height="44" src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /> | <img height="44" src="https://skillicons.dev/icons?i=express" alt="Express" /> | <img height="44" src="https://skillicons.dev/icons?i=postman" alt="REST" /> | <img height="44" src="https://cdn.simpleicons.org/socketdotio/ffffff" alt="Socket.io" /> |
-| :---: | :---: | :---: | :---: |
-| **Node.js** | **Express** | **REST APIs** | **Socket.io** |
-| <sub>evented runtime</sub> | <sub>HTTP layer</sub> | <sub>design & testing</sub> | <sub>rooms, events & fallbacks</sub> |
+<table border="0" cellspacing="0" cellpadding="0" align="center" style="border: none; border-collapse: collapse;">
+<tr>
+<td align="center" valign="top" style="border: none; padding: 0 10px;">
+<img height="44" src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /><br/>
+<strong>Node.js</strong><br/>
+<sub>evented runtime</sub>
+</td>
+<td align="center" valign="top" style="border: none; padding: 0 10px;">
+<img height="44" src="https://skillicons.dev/icons?i=express" alt="Express" /><br/>
+<strong>Express</strong><br/>
+<sub>HTTP layer</sub>
+</td>
+<td align="center" valign="top" style="border: none; padding: 0 10px;">
+<img height="44" src="https://skillicons.dev/icons?i=postman" alt="REST" /><br/>
+<strong>REST APIs</strong><br/>
+<sub>design & testing</sub>
+</td>
+<td align="center" valign="top" style="border: none; padding: 0 10px;">
+<img height="44" src="https://cdn.simpleicons.org/socketdotio/ffffff" alt="Socket.io" /><br/>
+<strong>Socket.io</strong><br/>
+<sub>rooms, events & fallbacks</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -135,10 +170,25 @@ open_to: "Backend / DevOps internships & collaborations"
 
 <div align="center">
 
-| <img height="44" src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /> | <img height="44" src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /> | <img height="44" src="https://skillicons.dev/icons?i=redis" alt="Redis" /> |
-| :---: | :---: | :---: |
-| **PostgreSQL** | **MongoDB** | **Redis** |
-| <sub>relational core</sub> | <sub>document store</sub> | <sub>cache & sessions</sub> |
+<table border="0" cellspacing="0" cellpadding="0" align="center" style="border: none; border-collapse: collapse;">
+<tr>
+<td align="center" valign="top" style="border: none; padding: 0 14px;">
+<img height="44" src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /><br/>
+<strong>PostgreSQL</strong><br/>
+<sub>relational core</sub>
+</td>
+<td align="center" valign="top" style="border: none; padding: 0 14px;">
+<img height="44" src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /><br/>
+<strong>MongoDB</strong><br/>
+<sub>document store</sub>
+</td>
+<td align="center" valign="top" style="border: none; padding: 0 14px;">
+<img height="44" src="https://skillicons.dev/icons?i=redis" alt="Redis" /><br/>
+<strong>Redis</strong><br/>
+<sub>cache & sessions</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -148,15 +198,47 @@ open_to: "Backend / DevOps internships & collaborations"
 
 <div align="center">
 
-| <img height="44" src="https://skillicons.dev/icons?i=docker" alt="Docker" /> | <img height="44" src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" /> | <img height="44" src="https://skillicons.dev/icons?i=aws" alt="AWS" /> | <img height="44" src="https://skillicons.dev/icons?i=nginx" alt="Nginx" /> |
-| :---: | :---: | :---: | :---: |
-| **Docker** | **Kubernetes** | **AWS** | **Nginx** |
-| <sub>containers & Compose</sub> | <sub>pods, Helm (growing)</sub> | <sub>EC2, S3, IAM basics</sub> | <sub>reverse proxy & TLS</sub> |
+<table border="0" cellspacing="0" cellpadding="0" align="center" style="border: none; border-collapse: collapse;">
+<tr>
+<td align="center" valign="top" style="border: none; padding: 0 10px;">
+<img height="44" src="https://skillicons.dev/icons?i=docker" alt="Docker" /><br/>
+<strong>Docker</strong><br/>
+<sub>containers & Compose</sub>
+</td>
+<td align="center" valign="top" style="border: none; padding: 0 10px;">
+<img height="44" src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" /><br/>
+<strong>Kubernetes</strong><br/>
+<sub>pods, Helm (growing)</sub>
+</td>
+<td align="center" valign="top" style="border: none; padding: 0 10px;">
+<img height="44" src="https://skillicons.dev/icons?i=aws" alt="AWS" /><br/>
+<strong>AWS</strong><br/>
+<sub>EC2, S3, IAM basics</sub>
+</td>
+<td align="center" valign="top" style="border: none; padding: 0 10px;">
+<img height="44" src="https://skillicons.dev/icons?i=nginx" alt="Nginx" /><br/>
+<strong>Nginx</strong><br/>
+<sub>reverse proxy & TLS</sub>
+</td>
+</tr>
+</table>
 
-| <img height="44" src="https://skillicons.dev/icons?i=linux" alt="Linux" /> | <img height="44" src="https://skillicons.dev/icons?i=git" alt="Git" /> |
-| :---: | :---: |
-| **Linux** | **Git** |
-| <sub>servers & shell</sub> | <sub>version control</sub> |
+<br/>
+
+<table border="0" cellspacing="0" cellpadding="0" align="center" style="border: none; border-collapse: collapse;">
+<tr>
+<td align="center" valign="top" style="border: none; padding: 0 14px;">
+<img height="44" src="https://skillicons.dev/icons?i=linux" alt="Linux" /><br/>
+<strong>Linux</strong><br/>
+<sub>servers & shell</sub>
+</td>
+<td align="center" valign="top" style="border: none; padding: 0 14px;">
+<img height="44" src="https://skillicons.dev/icons?i=git" alt="Git" /><br/>
+<strong>Git</strong><br/>
+<sub>version control</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -164,10 +246,25 @@ open_to: "Backend / DevOps internships & collaborations"
 
 <div align="center">
 
-| <img height="44" src="https://skillicons.dev/icons?i=jest" alt="Jest" /> | <img height="44" src="https://cdn.simpleicons.org/npm/CB3837" alt="Supertest" /> | <img height="44" src="https://cdn.simpleicons.org/eslint/4B32C3" alt="ESLint" /> |
-| :---: | :---: | :---: |
-| **Jest** | **Supertest** | **ESLint** |
-| <sub>unit & integration</sub> | <sub>HTTP API tests</sub> | <sub>linting</sub> |
+<table border="0" cellspacing="0" cellpadding="0" align="center" style="border: none; border-collapse: collapse;">
+<tr>
+<td align="center" valign="top" style="border: none; padding: 0 12px;">
+<img height="44" src="https://skillicons.dev/icons?i=jest" alt="Jest" /><br/>
+<strong>Jest</strong><br/>
+<sub>unit & integration</sub>
+</td>
+<td align="center" valign="top" style="border: none; padding: 0 12px;">
+<img height="44" src="https://cdn.simpleicons.org/npm/CB3837" alt="Supertest" /><br/>
+<strong>Supertest</strong><br/>
+<sub>HTTP API tests</sub>
+</td>
+<td align="center" valign="top" style="border: none; padding: 0 12px;">
+<img height="44" src="https://cdn.simpleicons.org/eslint/4B32C3" alt="ESLint" /><br/>
+<strong>ESLint</strong><br/>
+<sub>linting</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
